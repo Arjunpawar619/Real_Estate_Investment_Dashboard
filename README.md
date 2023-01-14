@@ -8,7 +8,7 @@
 Below Images are the Screenshot of Power BI dashboard:
 1. Suburbs with best and worst ROI
 
-![ss1](https://user-images.githubusercontent.com/75730717/212479661-c343297f-0bb6-43f8-8e89-2e10a54ca5fc.png)
+![ss1](https://user-images.githubusercontent.com/75730717/212480277-ec5dfdc0-5435-449f-a5e6-0423e8ca6660.png)
 
 2. Filtering criteria, such as price range, number of bedrooms,etc to match potential investments with the specific requirements of user.
 
@@ -23,5 +23,5 @@ Below Images are the Screenshot of Power BI dashboard:
 ![ss4](https://user-images.githubusercontent.com/75730717/212479702-e596d023-75aa-4811-be16-793c0b83e4ef.png)
 
 
-Naming convention of the raw data may be different.
-Download the raw data as well to see visuals in power bi.
+## Naming convention of the raw data may be different.
+## Download the raw data as well to see visuals in power bi.
