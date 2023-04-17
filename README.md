@@ -1,4 +1,4 @@
-# Melbourne Housing Market Analysis (2016-2018)
+# Real Estate Investment Dashboard (2016-2018)
 
 1. Analyzing Melbourne Housing Market data (Kaggle) to identify the suburbs yielding best possible ROI over a 3-year period and also display  the trends in the housing market during this period.
 
